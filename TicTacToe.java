@@ -23,7 +23,7 @@ public class TicTacToe{
         board = new Board();
         int moveCount = 0;
 
-        while (true){
+        while(true){
             clearScreen();
             board.display();
             
