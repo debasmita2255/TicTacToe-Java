@@ -26,3 +26,5 @@ replay_pid*
 
 # gdrive files for syncing
 *.ini
+desktop.ini
+.DS_Store
